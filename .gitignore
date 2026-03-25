@@ -1,0 +1,20 @@
+
+attic/
+target/
+work/
+
+Thumbs.db
+.DS_Store
+*.class
+test-helper.log
+*SNAPSHOT.info
+
+## ide settings (except run configurations)
+
+.idea/*.xml
+.idea/.name
+.idea/codeStyles/
+.idea/dataSources/
+.idea/libraries/
+.idea/shelf/
+.idea/queries/
